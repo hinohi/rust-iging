@@ -1,0 +1,4 @@
+[[package]]
+name = "rust-ising"
+version = "0.1.0"
+
